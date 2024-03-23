@@ -1,1 +1,1 @@
-Hi, I'm John. I'm interested in audio programming and digital signal processing (DSP) and am currently working on my C++, Python, DSP and math skills.
+Hi, I'm John. I'm a software developer from Canada. Here you will find my software notes and a few projects I've worked on over the years.
